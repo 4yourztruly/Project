@@ -1,3 +1,4 @@
 Jag har skapat en simpel miniräknare som man använder i consolen. Man skriver först in de två numrena man vill göra någonting med ex. 20 och sedan 30.
 Efter det ska man mata in vad man vill göra med dem (*-+/) och efter det får man resultatet, i detta fallet -10. 
 Under arbetet stötte jag på en massa buggar och fel men med en massa googlande och kollande på youtube löste det sig tillslut.
+Jag hade nog mer problem med git än vad jag hade med java under arbetet eftersom jag hade lite krångel med att koppla local branch och remote branch.
